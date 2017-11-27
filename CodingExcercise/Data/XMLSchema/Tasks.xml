@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tasks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <TaskID>1</TaskID>	
+    <TaskName>Initial Task</TaskName>
+    <DueDate>0001-01-01T00:00:00</DueDate>
+    <Status>In Progress</Status>
+    <AssignedTo>Ankit Sehgal</AssignedTo>
+  </Task>  
+</Tasks>

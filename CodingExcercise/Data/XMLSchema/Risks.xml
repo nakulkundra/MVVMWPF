@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Risks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Risk>
+    <RiskID>1</RiskID>
+    <RiskDescription>Marine Risk</RiskDescription>
+    <RiskLevel>Moderate</RiskLevel>
+    <MitigationPlan>Ankit</MitigationPlan>
+    <Status>Open</Status>
+  </Risk>  
+</Risks>
